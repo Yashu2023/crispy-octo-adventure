@@ -1,4 +1,3 @@
-# crispy-octo-adventure
 function hideResolveAndCancelRibbonButtons() {
 // Default return value to false. Hide buttons
 var value = false;
